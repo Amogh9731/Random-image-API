@@ -37,6 +37,7 @@ Server is running on http://localhost:3000
 Open your browser or Postman and make a GET request to: http://localhost:3000/api/image/random
 
 📦 Endpoint
+
 GET /api/image/random
 Response:
 {
@@ -44,6 +45,7 @@ Response:
 }
 
 ⚠️ Challenges Faced
+
 Deciding on a reliable third-party source for random images.
 
 Learning how to format dynamic URLs and integrate them into a JSON response.
