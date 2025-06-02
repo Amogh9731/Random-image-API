@@ -32,9 +32,13 @@ After running the last command, you should see:
 
 Server is running on http://localhost:3000
 
+
+
 🌐Access the API:
 
 Open your browser or Postman and make a GET request to: http://localhost:3000/api/image/random
+
+
 
 📦 Endpoint
 
@@ -43,6 +47,8 @@ Response:
 {
   "imageUrl": "https://picsum.photos/400/300?random=123"
 }
+
+
 
 ⚠️ Challenges Faced
 
